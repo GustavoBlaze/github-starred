@@ -17,7 +17,7 @@
 
 Criar um app para adicionar um usuario do github em uma lista, pesquisar o usuário na **API-REST** do github e listar seus repositórios favoritos.
 
-O app deve conter 3 páginas:
+### Páginas:
 - **Principal:** Esta é a página contem um formulário para adicionar usuários e uma listagem de usuários adicionados.
 - **Usuário:** Página que mostra os detalhes do usuários e também lista seus repositórios favoritos.
 - **Repositório:** Webview que exibe um repositório favoritado.
