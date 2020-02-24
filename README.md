@@ -24,7 +24,6 @@ O app deve conter 3 páginas:
 - 📄 **Axios** - Biblioteca Javascript para fazer requisições http
 - 📄 **ESLint** - Biblioteca Javascript para procurar e resolver problemas no codigo
 
-
 ### Demonstração
 
 <h1 align="center">
