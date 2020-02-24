@@ -28,5 +28,3 @@ O app deve conter 3 páginas:
 - ⚛️ **Styled Components** - Biblioteca Javascript pra estilizar componentes
 - 📄 **Axios** - Biblioteca Javascript para fazer requisições http
 - 📄 **ESLint** - Biblioteca Javascript para procurar e resolver problemas no codigo
-
-### Demonstração
