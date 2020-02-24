@@ -10,7 +10,7 @@
 
 
 <h1 align="center">
-  <img height="500" src="https://github.com/GustavoBlaze/github-starred/blob/master/repo_app.gif?raw=true" alt="repo_app.gif">
+  <img height="400" src="https://github.com/GustavoBlaze/github-starred/blob/master/repo_app.gif?raw=true" alt="repo_app.gif">
 </h1>
 
 ## :rocket: Sobre o desafio
