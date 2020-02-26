@@ -22,6 +22,13 @@ Criar um app para adicionar um usuario do github em uma lista, pesquisar o usuá
 - **Usuário:** Página que mostra os detalhes do usuários e também lista seus repositórios favoritos.
 - **Repositório:** Webview que exibe um repositório favoritado.
 
+### Iniciando
+1. `git clone git@github.com:GustavoBlaze/github-starred.git`
+2. `cd github-starred`
+3. `yarn`
+4. `react-native start`
+5. `react-native run-android` ou `react-nativee run-ios`
+
 ### Ferramentas utilizadas
 
 - ⚛️ **React Native** - Um framework para criar apps nativos usando React
